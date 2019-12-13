@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2c396e9-a237-42f7-a75f-0778354fc310" name="Default" comment="" />
+    <list default="true" id="a2c396e9-a237-42f7-a75f-0778354fc310" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -54,20 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-198">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -579,12 +568,12 @@
       <workItem from="1556671626429" duration="16624000" />
       <workItem from="1561158641441" duration="10687000" />
       <workItem from="1564789456741" duration="20637000" />
-      <workItem from="1576164425878" duration="4856000" />
+      <workItem from="1576164425878" duration="5843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98307000" />
+    <option name="totallyTimeSpent" value="99294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1924" height="1038" extended-state="0" />
@@ -888,7 +877,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -907,15 +904,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.php">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
