@@ -11,6 +11,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Model\Listing;
 use App\Model\ListingVariant;
+use App\User;
 use Illuminate\Support\Facades\DB;
 use Tiway\Ecommerce\Facades\Ecommerce;
 
@@ -20,6 +21,7 @@ class Index
 
     public function index()
     {
+        $users = User::query()->get();
 
         $export_data =  $lists = ListingVariant::query()->limit(30)->get();
 

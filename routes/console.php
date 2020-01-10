@@ -17,6 +17,12 @@ Artisan::command('inspire', function () {
     $this->comment(Inspiring::quote());
 })->describe('Display an inspiring quote');
 
+Artisan::command('tiway:test_ting', function () {
+    $res = \Tiway\TingTalkRobot\Facades\DingTalkRobot::alertToDing('dd0','33');
+    dd($res);
+
+});
+
 
 Artisan::command('tiway:test', function () {
 

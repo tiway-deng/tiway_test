@@ -13,8 +13,10 @@
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
+        "predis/predis": "^1.1",
         "ruflin/elastica": "5.x",
-        "tamayo/laravel-scout-elastic": "^4.0"
+        "tamayo/laravel-scout-elastic": "^4.0",
+        "tiway/tingtalk-robot": "dev-master"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
@@ -67,7 +69,7 @@
     "repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://packagist.laravel-china.org"
+            "url": "https://mirrors.aliyun.com/composer/"
         }
     }
 }

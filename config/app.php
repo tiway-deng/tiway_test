@@ -178,6 +178,7 @@ return [
         ScoutEngines\Elasticsearch\ElasticsearchProvider::class,
 
         Tiway\Ecommerce\EcommerceServiceProvider::class,
+        \Tiway\TingTalkRobot\TingTalkRobotServiceProvider::class,
 
 
     ],
@@ -231,7 +232,8 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
-        'Ecommerce'=> Tiway\Ecommerce\Facades\Ecommerce::class
+        'Ecommerce'=> Tiway\Ecommerce\Facades\Ecommerce::class,
+        'TingTalk'=> \Tiway\TingTalkRobot\Facades\DingTalkRobot::class
     ],
 
 ];
